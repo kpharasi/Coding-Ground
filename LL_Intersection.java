@@ -162,7 +162,7 @@ class LL_Intersection
 		list2.add(f);
 		list2.add(g);
 		list2.add(c);
-		list2.add(h);
+		list2.add(d);
 		
 		Node res = intersection(list1,list2);
 		
